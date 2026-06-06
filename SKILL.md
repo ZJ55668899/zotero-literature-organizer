@@ -1,6 +1,6 @@
 ---
 name: zotero-literature-organizer
-description: Organize papers in a Zotero collection by title, keywords, abstracts, and PDFs; create subcollections, controlled tags, and Chinese literature notes. Use when the user asks Codex to classify, tag, summarize, or annotate papers in a Zotero folder/collection.
+description: Organize Zotero literature collections into a structured literature-review workspace by reading titles, keywords, abstracts, and local PDFs; create topic subcollections, controlled Chinese tags, dry-run drafts, and Chinese literature notes. Use when the user asks to 整理 Zotero 文献库/文件夹/collection, 文献分类, 文献归类, 给文献打标签, 建子文件夹, 生成中文解读笔记, 整理论文集合, 整理文献综述材料, classify/tag/summarize/annotate papers in Zotero, or organize a Zotero folder for a literature review.
 ---
 
 # Zotero Literature Organizer
