@@ -1,4 +1,4 @@
 interface:
   display_name: "Zotero Literature Organizer"
-  short_description: "整理 Zotero 文献库：分类、标签、中文笔记。"
+  short_description: "Organize Zotero collections into folders, tags, and notes."
   default_prompt: "Use $zotero-literature-organizer to organize this Zotero collection into topic subfolders, controlled Chinese tags, and Chinese literature notes."
